@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:5396/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 14 Dec 2024 11:26:45 +0800</lastBuildDate>
+    <atom:link href="http://localhost:5396/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Another Post</title>
+      <link>http://localhost:5396/posts/another-post/</link>
+      <pubDate>Sat, 14 Dec 2024 11:26:45 +0800</pubDate>
+      <guid>http://localhost:5396/posts/another-post/</guid>
+      <description>&lt;p&gt;继续hello&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:5396/posts/my-first-post/</link>
+      <pubDate>Sat, 14 Dec 2024 10:00:00 +0800</pubDate>
+      <guid>http://localhost:5396/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Hello, world! This is my first post using Hugo.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
